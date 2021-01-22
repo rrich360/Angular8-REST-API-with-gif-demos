@@ -1,0 +1,5 @@
+package com.rogerIsAGenius.angularjsrestapidemo.repository;
+
+public interface EmployeeRepository {
+
+}

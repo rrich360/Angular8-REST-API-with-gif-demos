@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\roger\Desktop\AngularJS-REST-API-Demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3828824798.index
+\AngularJsRestApiDemo\src\main\resources
+C:\Users\roger\Desktop\AngularJS-REST-API-Demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1272914192.index
+\AngularJsRestApiDemo\src\main\java

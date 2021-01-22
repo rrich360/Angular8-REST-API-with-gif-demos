@@ -1,0 +1,5 @@
+package com.rogerIsAGenius.angularjsrestapidemo.model;
+
+public class Employee {
+
+}

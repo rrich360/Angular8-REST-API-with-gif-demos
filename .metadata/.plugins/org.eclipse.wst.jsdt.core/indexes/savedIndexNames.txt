@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\roger\Desktop\AngularJS-REST-API-Demo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+514744135.index
+165981934.index
+2391042222.index
+2522509654.index
+4012158209.index
+69992209.index

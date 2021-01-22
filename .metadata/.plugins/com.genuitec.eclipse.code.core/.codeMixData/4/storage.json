@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "ac6b1c225f932fc15b72e6d43ae76727f9c3ce39236295cffa5437b9982127c5",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "9d8cd41831d3f92aa77624799cd4c0b4",
+                "configURIPath": "file:///c%3A/Users/roger/Desktop/AngularJS-REST-API-Demo/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e"
+}

@@ -15,6 +15,12 @@ Angular JS, Spring boot, RESTful API, JPA, Hibernate, MySQL, and CRUD Principles
  #  3.Next, create a HTML file to access and display results.
  	I created a submission form that displays the Employee Name, Salary, and Department. It takes input and there is a submit button for saving the record.
  	I created a table in a separate div to displays the records from the database.  
+  
+  
+  # 3.5 CRUD App Design
+  ![CRUD-App-Design](https://user-images.githubusercontent.com/20470279/106377147-e6829c00-6368-11eb-8069-0ad26d9f2522.gif)
+  
+
 # 4. Next, you need to include dependencies in your pom.xml
  	You want to include dependencies for jpa, spring-boot-starter web, dev-tools, and since I’m using phpMyAdmin, MySQL dependency. 
 

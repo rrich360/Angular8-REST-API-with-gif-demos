@@ -32,5 +32,7 @@ Angular JS, Spring boot, RESTful API, JPA, Hibernate, MySQL, and CRUD Principles
  	PUT (update)
  	DELETE(delete)
 # 9. Next, I created a spring app called, “Crud”, to run and initiate all the arguments in the spring app class.
+ This allows the web services to run according to the methods created from the repository, resource, and service class.
 
-# 10. Next, I created the web app into a maven project
+# 10. Next, I created the web app into a maven project and run it as a java application. 
+Verify the output and functionality of the CRUD App. 

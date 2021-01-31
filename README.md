@@ -43,3 +43,10 @@ Angular JS, Spring boot, RESTful API, JPA, Hibernate, MySQL, and CRUD Principles
 
 # 10. Next, I created the web app into a maven project and run it as a java application. 
 Verify the output and functionality of the CRUD App. 
+
+# 10.5 Maven-Build
+![maven-build](https://user-images.githubusercontent.com/20470279/106377594-1a12f580-636c-11eb-8052-b6bddb1dede0.gif)
+
+
+
+

@@ -24,7 +24,8 @@ Angular JS, Spring boot, RESTful API, JPA, Hibernate, MySQL, and CRUD Principles
 # 4. Next, you need to include dependencies in your pom.xml
  	You want to include dependencies for jpa, spring-boot-starter web, dev-tools, and since I’m using phpMyAdmin, MySQL dependency. 
 
-# 5. Then you need to configure the application properties for connecting the web app to a database. My URL is set to use mysql connection.
+# 5. Then you need to configure the application properties for connecting the web app to a database.
+  My URL is configured to use mysql connection.
 
 # 6. Next, you need to create the table for Employees by implementing entity annotation and entity listeners.
  	The entity will create the attributes that will store the data in the table.

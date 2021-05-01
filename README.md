@@ -1,7 +1,7 @@
-# AngularJS-REST-API-Demo
+# Angular-REST-API-Demo
 Consuming a RESTful web service with AngularJS, I can manage employee records.
 Tech stack used includes :
-Angular JS, Spring boot, RESTful API, JPA, Hibernate, MySQL, and CRUD Principles.
+Angular8, Spring boot, RESTful API, JPA, Hibernate, MySQL, and CRUD Principles.
 
 
 # CRUD App Functionality
@@ -9,7 +9,7 @@ Angular JS, Spring boot, RESTful API, JPA, Hibernate, MySQL, and CRUD Principles
 
 
 
-# 1.	Register the application module(AngularJS)
+# 1.	Register the application module(Angular)
  	When registering the module, you need to co-pass the “ngResource” which is responsible for calling the REST API.
  	Create the factory method to call it in the app.
  	In this project, I created a CRUD service for employees. 

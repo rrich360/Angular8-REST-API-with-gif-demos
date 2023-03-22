@@ -1,7 +1,7 @@
 # Angular-REST-API-Demo
 Consuming a RESTful web service with AngularJS, I can manage employee records.
 Tech stack used includes :
-Angular8, Spring boot, RESTful API, JPA, Hibernate, MySQL, and CRUD Principles.
+Angular, Spring boot, RESTful API, JPA, Hibernate, MySQL, and CRUD Principles.
 
 
 # CRUD App Functionality
